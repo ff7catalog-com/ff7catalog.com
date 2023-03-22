@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Catalog Name="ff7Catalog.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Mods>
+
+## Your Mod name ##
+<!-- 
+remove this lines after first mod is added
+use Qhimm.xml as reference
+
+    <Mod>
+      <ID></ID>
+      <Author></Author> 
+      <Link></Link>
+      <DonationLink></DonationLink>
+      <LatestVersion>
+        <Link>iros://Url/http$www.your-url.com/yourmod.iro</Link>
+        <Version></Version>
+        <ReleaseDate></ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize></DownloadSize>
+      </LatestVersion>
+      <Name></Name>
+      <Category></Category>
+      <Description></Description>
+      <Tags>
+        <string>Something</string>
+        <string>Something else</string>
+      </Tags>
+    </Mod>
+
+remove this line after first mod is added -->
+
+  </Mods>
+</Catalog>
