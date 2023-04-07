@@ -4,6 +4,38 @@
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Mods>
 
+##GAMEPLAY##
+
+## Gaia-VII Remaster
+    
+		<Mod>
+			<ID>e01676d9-5e13-438e-978b-b531a286e1ae</ID>
+			<Author>BerZerker</Author>
+			<Link>https://www.nexusmods.com/finalfantasy7/mods/73</Link>
+			<DonationLink></DonationLink>
+			<LatestVersion>
+				<Link>iros://ExternalUrl/https$www.nexusmods.com/finalfantasy7/mods/73?tab=files&amp;file_id=994</Link>
+				<Version>1.5</Version>
+				<ReleaseDate>2023-03-31</ReleaseDate>
+				<CompatibleGameVersions>All</CompatibleGameVersions>
+				<PreviewImage>https://www.gp-mc.net/berzerker/icogaia.png</PreviewImage>
+				<ReleaseNotes></ReleaseNotes>
+				<DownloadSize>5769584</DownloadSize>
+			</LatestVersion>
+			<Name>Gaia-VII Remaster v1.5</Name>
+			<Category>Gameplay</Category>
+			<Description>Graphical Overhaul for every 3D-model</Description>
+			<Tags>
+				<string>Berzerker</string>
+				<string>Gaia</string>
+				<string>Gameplay</string>
+				<string>Remake</string>
+				<string>Overhaul</string>
+			</Tags>
+		</Mod>
+
+##Category##
+
 ## To share your mod just edit and PR to https://github.com/ff7catalog-com/ff7catalog.com/blob/main/index.xml
 
 	</Mods>
